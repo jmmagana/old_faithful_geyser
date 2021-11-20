@@ -1,1 +1,1 @@
-# diamons_explorer
+# Old Faithful Geyser app
