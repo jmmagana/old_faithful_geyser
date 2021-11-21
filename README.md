@@ -1,3 +1,3 @@
 # Old Faithful Geyser app
 
-## Test from the cloud
+### URL https://mmagana.shinyapps.io/shiny_app/
